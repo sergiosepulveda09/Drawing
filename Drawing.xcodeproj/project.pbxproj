@@ -13,6 +13,7 @@
 		80F96148269CC36300077E57 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80F96147269CC36300077E57 /* Preview Assets.xcassets */; };
 		80F96151269EA5E300077E57 /* CreatingCustomPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96150269EA5E300077E57 /* CreatingCustomPaths.swift */; };
 		80F96153269EA85B00077E57 /* PathsVSShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96152269EA85B00077E57 /* PathsVSShapes.swift */; };
+		80F96155269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96154269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		80F96149269CC36300077E57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80F96150269EA5E300077E57 /* CreatingCustomPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingCustomPaths.swift; sourceTree = "<group>"; };
 		80F96152269EA85B00077E57 /* PathsVSShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathsVSShapes.swift; sourceTree = "<group>"; };
+		80F96154269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeBorderAndInsettableShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				80F96150269EA5E300077E57 /* CreatingCustomPaths.swift */,
 				80F96152269EA85B00077E57 /* PathsVSShapes.swift */,
+				80F96154269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift */,
 			);
 			path = "Theory ";
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				80F96151269EA5E300077E57 /* CreatingCustomPaths.swift in Sources */,
 				80F96143269CC36100077E57 /* ContentView.swift in Sources */,
+				80F96155269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift in Sources */,
 				80F96141269CC36100077E57 /* DrawingApp.swift in Sources */,
 				80F96153269EA85B00077E57 /* PathsVSShapes.swift in Sources */,
 			);
