@@ -15,6 +15,7 @@
 		80F96153269EA85B00077E57 /* PathsVSShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96152269EA85B00077E57 /* PathsVSShapes.swift */; };
 		80F96155269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96154269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift */; };
 		80F96157269EB01200077E57 /* CGAffineTransformAndEvenOddFills.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96156269EB01200077E57 /* CGAffineTransformAndEvenOddFills.swift */; };
+		80F96159269EB57000077E57 /* ImagePaint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96158269EB57000077E57 /* ImagePaint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		80F96152269EA85B00077E57 /* PathsVSShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathsVSShapes.swift; sourceTree = "<group>"; };
 		80F96154269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeBorderAndInsettableShape.swift; sourceTree = "<group>"; };
 		80F96156269EB01200077E57 /* CGAffineTransformAndEvenOddFills.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGAffineTransformAndEvenOddFills.swift; sourceTree = "<group>"; };
+		80F96158269EB57000077E57 /* ImagePaint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePaint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				80F96152269EA85B00077E57 /* PathsVSShapes.swift */,
 				80F96154269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift */,
 				80F96156269EB01200077E57 /* CGAffineTransformAndEvenOddFills.swift */,
+				80F96158269EB57000077E57 /* ImagePaint.swift */,
 			);
 			path = "Theory ";
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80F96159269EB57000077E57 /* ImagePaint.swift in Sources */,
 				80F96151269EA5E300077E57 /* CreatingCustomPaths.swift in Sources */,
 				80F96143269CC36100077E57 /* ContentView.swift in Sources */,
 				80F96155269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift in Sources */,
