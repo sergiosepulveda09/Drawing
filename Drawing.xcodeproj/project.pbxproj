@@ -10,6 +10,8 @@
 		80CFD2BD269F8CA7009790A2 /* DrawingGroupHighPerformance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CFD2BC269F8CA7009790A2 /* DrawingGroupHighPerformance.swift */; };
 		80CFD2BF269F9614009790A2 /* SpecialEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CFD2BE269F9614009790A2 /* SpecialEffects.swift */; };
 		80CFD2C1269F9C9B009790A2 /* AnimatableDataExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CFD2C0269F9C9B009790A2 /* AnimatableDataExample.swift */; };
+		80CFD2C326A23F2C009790A2 /* AnimatablePair1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CFD2C226A23F2C009790A2 /* AnimatablePair1.swift */; };
+		80CFD2C526A24A8A009790A2 /* CreatingSpirograph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CFD2C426A24A8A009790A2 /* CreatingSpirograph.swift */; };
 		80F96141269CC36100077E57 /* DrawingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96140269CC36100077E57 /* DrawingApp.swift */; };
 		80F96143269CC36100077E57 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F96142269CC36100077E57 /* ContentView.swift */; };
 		80F96145269CC36300077E57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80F96144269CC36300077E57 /* Assets.xcassets */; };
@@ -25,6 +27,8 @@
 		80CFD2BC269F8CA7009790A2 /* DrawingGroupHighPerformance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingGroupHighPerformance.swift; sourceTree = "<group>"; };
 		80CFD2BE269F9614009790A2 /* SpecialEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEffects.swift; sourceTree = "<group>"; };
 		80CFD2C0269F9C9B009790A2 /* AnimatableDataExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableDataExample.swift; sourceTree = "<group>"; };
+		80CFD2C226A23F2C009790A2 /* AnimatablePair1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatablePair1.swift; sourceTree = "<group>"; };
+		80CFD2C426A24A8A009790A2 /* CreatingSpirograph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingSpirograph.swift; sourceTree = "<group>"; };
 		80F9613D269CC36100077E57 /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80F96140269CC36100077E57 /* DrawingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingApp.swift; sourceTree = "<group>"; };
 		80F96142269CC36100077E57 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 				80CFD2BC269F8CA7009790A2 /* DrawingGroupHighPerformance.swift */,
 				80CFD2BE269F9614009790A2 /* SpecialEffects.swift */,
 				80CFD2C0269F9C9B009790A2 /* AnimatableDataExample.swift */,
+				80CFD2C226A23F2C009790A2 /* AnimatablePair1.swift */,
+				80CFD2C426A24A8A009790A2 /* CreatingSpirograph.swift */,
 			);
 			path = "Theory ";
 			sourceTree = "<group>";
@@ -173,10 +179,12 @@
 				80F96159269EB57000077E57 /* ImagePaint.swift in Sources */,
 				80F96151269EA5E300077E57 /* CreatingCustomPaths.swift in Sources */,
 				80F96143269CC36100077E57 /* ContentView.swift in Sources */,
+				80CFD2C526A24A8A009790A2 /* CreatingSpirograph.swift in Sources */,
 				80F96155269EAD0400077E57 /* StrokeBorderAndInsettableShape.swift in Sources */,
 				80F96141269CC36100077E57 /* DrawingApp.swift in Sources */,
 				80CFD2BF269F9614009790A2 /* SpecialEffects.swift in Sources */,
 				80CFD2BD269F8CA7009790A2 /* DrawingGroupHighPerformance.swift in Sources */,
+				80CFD2C326A23F2C009790A2 /* AnimatablePair1.swift in Sources */,
 				80F96157269EB01200077E57 /* CGAffineTransformAndEvenOddFills.swift in Sources */,
 				80F96153269EA85B00077E57 /* PathsVSShapes.swift in Sources */,
 				80CFD2C1269F9C9B009790A2 /* AnimatableDataExample.swift in Sources */,
